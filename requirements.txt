@@ -1,3 +1,8 @@
 pillow
 streamlit>=0.82.0
 requests
+opencv-python
+matplotlib
+ipython
+scikit-image
+streamlit-image-comparison
