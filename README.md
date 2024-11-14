@@ -1,4 +1,4 @@
-# streamlit-image-juxtapose
+# streamlit-food-hackathon
 streamlit app for the woolies food hackathon
 
 
